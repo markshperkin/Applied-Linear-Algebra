@@ -24,23 +24,23 @@ A special thanks to my instructor, [Henry Simmons](https://scholar.google.com/ci
 
 ### 4. builtin_det
 - **Description**: Calculates the determinant of a matrix using MATLAB/Octave's built-in `det` function.
-- **File**: `builtin_det.m`
+- **File**: `determinant_builtin.m`
 
 ### 5. lu_det
 - **Description**: Calculates the determinant of a matrix using LU decomposition.
-- **File**: `lu_det.m`
+- **File**: `determinant_lu.m`
 
 ### 6. recursive_det
 - **Description**: Calculates the determinant of a matrix using a recursive approach.
-- **File**: `recursive_det.m`
+- **File**: `determinant_recursive.m`
 
-### 7. diagonalizeMatrix
-- **Description**: Attempts to diagonalize a given square matrix.
-- **File**: `diagonalizeMatrix.m`
+### 7. diagonalize_matrix
+- **Description**: Attempts to diagonalize a given square matrix. (Sorts eigenvalues without rounding)
+- **File**: `diagonalize_matrix.m`
 
 ### 8. solverolver
 - **Description**: Solves a system of linear equations represented by an upper triangular matrix and a vector.
-- **File**: `solverolver.m`
+- **File**: `flowSolver.m`
 
 ### 9. forward4
 - **Description**: Performs forward substitution for a 4x4 lower triangular matrix and a vector.
@@ -50,25 +50,25 @@ A special thanks to my instructor, [Henry Simmons](https://scholar.google.com/ci
 - **Description**: Performs the Gram-Schmidt process to orthogonalize a square matrix.
 - **File**: `grams.m`
 
-### 11. calculate_key_matrix
-- **Description**: Calculates the key matrix used for encryption given plaintext and ciphertext pairs.
-- **File**: `calculate_key_matrix.m`
+### 11. diagonalizeMatrix
+- **Description**: Another approach to diagonalize a given square matrix. (sorts and rounds eigenvalues)
+- **File**: `iagonalizeMatrix.m`
 
 ### 12. modInv
 - **Description**: Calculates the modular inverse of a number under a given modulus.
 - **File**: `modInv.m`
-
-### 13. mybinomial
+  
+### 13. myLU
+- **Description**: Performs LU decomposition of a square matrix.
+- **File**: `myLU.m`
+  
+### 14. mybinomial
 - **Description**: Calculates the binomial coefficient "n choose k".
 - **File**: `mybinomial.m`
 
-### 14. mydot
+### 15. mydot
 - **Description**: Calculates the dot product of two vectors.
 - **File**: `mydot.m`
-
-### 15. myLU
-- **Description**: Performs LU decomposition of a square matrix.
-- **File**: `myLU.m`
 
 ### 16. mymat
 - **Description**: Creates an n x n matrix with 11, 22, 33, ... on the subdiagonal.

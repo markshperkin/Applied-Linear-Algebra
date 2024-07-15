@@ -3,7 +3,7 @@
 This repository contains a collection of MATLAB/Octave algorithms developed as part of the Applied Linear Algebra lab class at the University of South Carolina. Each algorithm is accompanied by a detailed description and usage instructions, written as comments within the files.
 
 ## Usage
-Each algorithm can be used by following the instructions provided within the corresponding `.m` file. The comments in the files include a brief description of the algorithm, its inputs and outputs, and an example of how to use it in MATLAB/Octave.
+Each algorithm can be used by following the instructions provided within the corresponding file. The comments in the files include a brief description of the algorithm, its inputs and outputs, and an example of how to use it in MATLAB/Octave.
 
 ## Acknowledgements
 A special thanks to my instructor, [Henry Simmons](https://scholar.google.com/citations?user=cgvV_QMAAAAJ&hl=en), for his guidance and support.
